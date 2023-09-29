@@ -34,7 +34,11 @@ Before you get started, you'll need the following tools installed on your system
 
 > Visual Studio Code will automatically detect the DevContainer configuration and ask if you want to reopen the project in a development container. Confirm to start the container.
 
+## Templates
+Here are the available DevContainers templates in this repository:
+
+
 ## License
-This project is licensed under the MIT License. Feel free to use, modify, and distribute the templates as needed.
+This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the templates as needed.
 
 Happy coding!
