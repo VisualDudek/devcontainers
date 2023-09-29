@@ -4,13 +4,14 @@ Welcome to the DevContainers Templates Repository! This repository contains a co
 
 ## Table of Contents
 
-1. [Introduction](#introduction)
-2. [Getting Started](#getting-started)
-   - [Prerequisites](#prerequisites)
-   - [Usage](#usage)
-3. [Templates](#templates)
-4. [Contributing](#contributing)
-5. [License](#license)
+- [DevContainers Templates Repository](#devcontainers-templates-repository)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Getting Started](#getting-started)
+    - [Prerequisites](#prerequisites)
+    - [Usage](#usage)
+  - [Templates](#templates)
+  - [License](#license)
 
 ## Introduction
 
