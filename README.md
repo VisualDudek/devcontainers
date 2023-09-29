@@ -37,6 +37,7 @@ Before you get started, you'll need the following tools installed on your system
 ## Templates
 Here are the available DevContainers templates in this repository:
 
+- `templates/`: This directory holds the devcontainers template files. Each template is designed for a specific use case or application architecture.
 
 ## License
 This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the templates as needed.
